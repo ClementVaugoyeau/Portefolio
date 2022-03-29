@@ -1,0 +1,28 @@
+body {
+    background: rgb(121, 121, 238);
+    margin: 0%;
+}
+
+.wrapper {
+    background: green;
+    display: flex;
+}
+
+.navbar {
+    background: rgb(138, 138, 255);
+    height: 100vh;
+    width: 15%;
+    
+}
+
+nav {
+    background-color: yellow;
+    display: grid;
+    margin: 1rem;
+}
+
+.mainContainer {
+    background: rgb(250, 95, 95);
+    width: 100%;
+    
+}
