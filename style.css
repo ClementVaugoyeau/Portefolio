@@ -1,0 +1,89 @@
+body {
+  background: #7979ee;
+  margin: 0%;
+}
+
+.wrapper {
+  background: green;
+  display: flex;
+}
+
+.navbar {
+  background-color: #400124;
+  color: white;
+  height: 100vh;
+  width: 15%;
+  padding-top: 70px;
+  text-align: center;
+  font-family: 'Tropikal';
+  font-size: 1.3rem;
+
+}
+
+nav {
+  background-color: #400124;
+  display: grid;
+  margin: 1rem;
+  padding-left: 10px;
+  
+  
+  text-align: left;
+  font-family: 'Tropikal';
+}
+
+a {
+  color: white;
+}
+
+.mainContainer {
+  background: #F2CDAC;
+  width: 100%;
+}
+
+h1 {
+  padding-left: 10%;
+  font-family: 'Tropikal', 'Bold';
+  font-size: 3rem;
+}
+
+h2 {
+  padding-left: 10%;
+  font-family: 'Tropikal', 'Bold';
+  font-size: 2rem;
+}
+
+hr {
+  background-color: #400124;
+  height: 2px;
+
+  
+}
+
+section {
+  background: #F2CDAC;
+  display: flex;
+  margin: 2rem;
+  
+
+}
+
+.card {
+  background-color: #94A66D;
+  margin: 2rem;
+  border-radius: 5px;
+  box-shadow:  5px 5px 5px 0px rgba(0, 0, 0, 0.4);
+  
+  
+}
+
+img {
+  margin-bottom: 3rem;
+  border-radius: 5px;
+
+  
+  
+}
+
+/*# sourceMappingURL=style.css.map 
+beige : #F2CDAC light orange : #F27A5E
+*/
