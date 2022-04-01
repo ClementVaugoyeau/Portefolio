@@ -33,7 +33,15 @@ nav {
 }
 
 a {
+  color: rgb(230, 230, 230);
+  transition: 0.3s;
+  padding-top: 5%;
+}
+
+a:hover {
   color: white;
+  padding-left: 5%;
+  
 }
 
 .mainContainer {
