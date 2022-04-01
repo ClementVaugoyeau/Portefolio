@@ -73,8 +73,24 @@ section {
   margin: 2rem;
   border-radius: 5px;
   box-shadow:  5px 5px 5px 0px rgba(0, 0, 0, 0.4);
+  transition: width 0.5s, height 0.5s, background-color 0.5s, transform 0.5s;
   
   
+}
+
+.card:hover {
+  background-color: #400124;
+  color: white;
+  transform: scale(1.025);
+}
+
+p {
+  padding-left: 10%;
+  font-family: 'Harmony';
+  font-size: 1rem;
+
+
+
 }
 
 img {
