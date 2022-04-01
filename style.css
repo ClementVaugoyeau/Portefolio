@@ -12,7 +12,7 @@ body {
 .navbar {
   background-color: #400124;
   color: white;
-  height: 100vh;
+  
   width: 15%;
   padding-top: 70px;
   text-align: center;
@@ -107,6 +107,11 @@ img {
 
   
   
+}
+
+footer {
+  height: 200px;
+  background: #F2CDAC;
 }
 
 /*# sourceMappingURL=style.css.map 
